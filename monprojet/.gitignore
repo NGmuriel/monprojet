@@ -1,0 +1,19 @@
+# Fichiers Python
+*.pyc
+__pycache__/
+
+# Base de données SQLite
+db.sqlite3
+
+# Variables d'environnement
+.env
+
+# Dossier des migrations cachées
+*/migrations/__pycache__/
+
+# Dossiers de l'environnement virtuel
+venv/
+env/
+
+# Fichiers de logs
+*.log
